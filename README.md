@@ -1,5 +1,4 @@
-# Fault_Detect-repo
-## Kaggle Project - Electrical Fault Detection
+# Kaggle Project - Electrical Fault Detection
 
 Fault detection on a transmission system modelled in MATLAB. 
 
